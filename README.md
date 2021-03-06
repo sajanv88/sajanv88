@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajanv88
 - 👀 I’m interested in building web applications using React,Nodejs and Mongodb
-- 🌱 I’m currently learning Dotnet core 5.0 C#
+- 🌱 I’m currently learning 3d printing.
 - 💞️ I’m looking to collaborate if you have an idea and, want to build a product.
 - 📫 How to reach me [Email](sajankumar.nl@gmail.com) | [Website](https://sajankumarv.com)
 
