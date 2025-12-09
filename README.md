@@ -1,15 +1,15 @@
 👋 Hi, I'm Sajan (@sajanv88)
 
-I’m a Full-Stack Developer & Software Architect passionate about crafting scalable web applications and developer tools.
+I’m a Full-Stack & Software Architect passionate about crafting scalable web applications and developer tools.
 
 💡 What I Work With
 
 - Frontend: React, Next.js, Nuxt
 - Backend: NestJS, Node.js, Deno, FastAPI, .NET Core (C#), ABP Framework
 - Languages: TypeScript, JavaScript, Python, C#
-- DevOps & Cloud: Docker, microk8s, Azure
-- Databases: MongoDB, PostgreSQL
-- AI: Prompting LLMs, building AI-powered apps using LangChain and N8N
+- DevOps & Cloud: Docker, kubernetes, AWS/Azure and GitHub Actions
+- Databases: MongoDB/PostgreSQL
+- AI: Prompting LLMs, building AI-powered apps using LangChain, Ollama and N8N.
 
 🤝 How I Can Help
 
