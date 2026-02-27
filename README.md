@@ -4,12 +4,11 @@ I’m a Full-Stack & Software Architect passionate about crafting scalable web a
 
 💡 What I Work With
 
-- Frontend: React, Next.js, Nuxt
-- Backend: NestJS, Node.js, Deno, FastAPI, .NET Core (C#), ABP Framework
-- Languages: TypeScript, JavaScript, Python, C#
+- Frontend: React, Next.js, Typescript & Javascript
+- Backend: NestJS, Node.js, Hono, FastAPI, FastMCP .NET Core (C#)
 - DevOps & Cloud: Docker, kubernetes, AWS/Azure and GitHub Actions
-- Databases: MongoDB/PostgreSQL
-- AI: Prompting LLMs, building AI-powered apps using LangChain, Ollama and N8N.
+- Databases: MongoDB/PostgreSQL/Redis
+- AI: Prompting LLMs, building AI-powered apps using LangChain, N8N, Gemini, Open AI, Hugging Face and openclaw
 
 🤝 How I Can Help
 
