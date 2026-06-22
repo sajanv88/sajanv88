@@ -1,7 +1,7 @@
 👋 Hi, I'm Sajan (@sajanv88)
 
 Senior Full-Stack Engineer & Software Architect with 18 years of experience, 
-passionate about crafting scalable Web Applications, Optimize Software Architecture and GenAI/LLM integrations. Also, Founder & Principal Consultant @ Nuvraxis
+passionate about crafting scalable Web Applications, AI Automation, Optimize Software Architecture and GenAI/LLM integrations. Also, Founder & Principal Consultant @ Nuvraxis
 
 ---
 
