@@ -9,7 +9,7 @@ SaaS for B2B businesses. I also take contract work through Nuvraxis (nuvraxis.co
 ## What I work with
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript
-- **Backend:** NestJS, Node.js, Hono, FastAPI, FastMCP, .NET Core (C#)
+- **Backend:** NestJS, Node.js, Hono, FastAPI, FastMCP, .NET Core (C#), Java Spring Boot
 - **DevOps and cloud:** Docker, Kubernetes, AWS, Azure, GitHub Actions
 - **Databases:** MongoDB, PostgreSQL, Redis
 - **AI:** Azure OpenAI, Azure Document Intelligence, Claude, RAG pipelines
