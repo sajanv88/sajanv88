@@ -31,7 +31,5 @@ for B2B businesses.
 
 ## Get in touch
 
-- Email: [sajan@nuvraxis.com](mailto:sajan@nuvraxis.com)
-- Book a call: [30 min strategy call](https://calendar.app.google/5VPdhYSdzz8pt1fH6)
 - LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
 - X: [@sajanvtech](https://x.com/sajanvtech)
