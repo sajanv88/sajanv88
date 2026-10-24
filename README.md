@@ -1,8 +1,9 @@
 # Hi, I'm Sajan (@sajanv88)
 
-Freelance Senior Full-Stack Engineer / Tech Lead with 18+ years of experience.
+Freelance Tech Lead / Senior Full-Stack Engineer with 18+ years of experience.
 I build production systems, not prototypes. Available for contract and freelance
 work through my consultancy, Nuvraxis (nuvraxis.com).
+
 
 On the side I'm building Strolio (strolio.eu), an EU invoicing and payments SaaS
 for B2B businesses.
